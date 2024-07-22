@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92c12dd4-9f44-4a00-8e45-d8b1cebce8b6" name="Changes" comment="Challenge two: AddTwoNumbers solved">
+    <list default="true" id="92c12dd4-9f44-4a00-8e45-d8b1cebce8b6" name="Changes" comment="Challenge three:Longest Substring Without Repeating Characters solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,12 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721290331336</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Challenge three:Longest Substring Without Repeating Characters solved">
+      <option name="closed" value="true" />
+      <created>1721378883025</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721378883025</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Challenge one: two sums solved" />
     <MESSAGE value="Challenge two: AddTwoNumbers solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Challenge two: AddTwoNumbers solved" />
+    <MESSAGE value="Challenge three:Longest Substring Without Repeating Characters solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Challenge three:Longest Substring Without Repeating Characters solved" />
   </component>
 </project>
