@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92c12dd4-9f44-4a00-8e45-d8b1cebce8b6" name="Changes" comment="Challenge four: MedianOfTwoSortedArrays">
+    <list default="true" id="92c12dd4-9f44-4a00-8e45-d8b1cebce8b6" name="Changes" comment="Challenge five: LongestPalindromicSubstring">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/LongestPalindromicSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721634113412</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Challenge five: LongestPalindromicSubstring">
+      <option name="closed" value="true" />
+      <created>1721723428443</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721723428443</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -103,6 +112,7 @@
     <MESSAGE value="Challenge two: AddTwoNumbers solved" />
     <MESSAGE value="Challenge three:Longest Substring Without Repeating Characters solved" />
     <MESSAGE value="Challenge four: MedianOfTwoSortedArrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Challenge four: MedianOfTwoSortedArrays" />
+    <MESSAGE value="Challenge five: LongestPalindromicSubstring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Challenge five: LongestPalindromicSubstring" />
   </component>
 </project>

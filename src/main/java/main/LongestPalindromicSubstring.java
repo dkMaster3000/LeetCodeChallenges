@@ -1,14 +1,20 @@
 package main;
 
 public class LongestPalindromicSubstring {
+
     public String longestPalindrome(String s) {
 
-        String safe = s.length() == 1 ? s : "";
+        String safe = "";
 
         for (int startpoint = 0; startpoint < s.length(); startpoint++) {
-            for (int endpoint = startpoint; endpoint < s.length(); endpoint++) {
 
-                String substring = s.substring(startpoint, endpoint + 1);
+            if (s.length() - startpoint <= safe.length()) break;
+
+            for (int endpoint = s.length(); endpoint >= startpoint; endpoint--) {
+
+                if (endpoint - startpoint <= safe.length()) break;
+
+                String substring = s.substring(startpoint, endpoint);
 
                 if (substring.length() >= safe.length()) {
                     if (checkIfPalindrome(substring)) {
@@ -25,7 +31,7 @@ public class LongestPalindromicSubstring {
 
     public boolean checkIfPalindrome(String s) {
 
-        for (int i = 0; i < s.length() / 2 + 1; i++) {
+        for (int i = 0; i < s.length() / 2; i++) {
             if (s.charAt(i) != s.charAt(s.length() - 1 - i)) {
                 return false;
             }
