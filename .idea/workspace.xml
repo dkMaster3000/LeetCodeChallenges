@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92c12dd4-9f44-4a00-8e45-d8b1cebce8b6" name="Changes" comment="Challenge five: LongestPalindromicSubstring faster">
+    <list default="true" id="92c12dd4-9f44-4a00-8e45-d8b1cebce8b6" name="Changes" comment="Challenge six: ZigzagConversion solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/ZigzagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/ZigzagConversion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721724503796</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Challenge six: ZigzagConversion solved">
+      <option name="closed" value="true" />
+      <created>1721806993900</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721806993900</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +130,7 @@
     <MESSAGE value="Challenge four: MedianOfTwoSortedArrays" />
     <MESSAGE value="Challenge five: LongestPalindromicSubstring" />
     <MESSAGE value="Challenge five: LongestPalindromicSubstring faster" />
-    <option name="LAST_COMMIT_MESSAGE" value="Challenge five: LongestPalindromicSubstring faster" />
+    <MESSAGE value="Challenge six: ZigzagConversion solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Challenge six: ZigzagConversion solved" />
   </component>
 </project>
