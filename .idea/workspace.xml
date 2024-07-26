@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92c12dd4-9f44-4a00-8e45-d8b1cebce8b6" name="Changes" comment="Challenge six: ZigzagConversion faster">
+    <list default="true" id="92c12dd4-9f44-4a00-8e45-d8b1cebce8b6" name="Changes" comment="Challenge seven: ReverseInteger solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,16 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AddTwoNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddTwoNumbers.executor": "Run",
+    "Application.StringToInteger.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -127,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721808287249</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Challenge seven: ReverseInteger solved">
+      <option name="closed" value="true" />
+      <created>1721888793966</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721888793966</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +148,7 @@
     <MESSAGE value="Challenge five: LongestPalindromicSubstring faster" />
     <MESSAGE value="Challenge six: ZigzagConversion solved" />
     <MESSAGE value="Challenge six: ZigzagConversion faster" />
-    <option name="LAST_COMMIT_MESSAGE" value="Challenge six: ZigzagConversion faster" />
+    <MESSAGE value="Challenge seven: ReverseInteger solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Challenge seven: ReverseInteger solved" />
   </component>
 </project>
